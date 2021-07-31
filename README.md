@@ -10,8 +10,8 @@ npm install
 ```
 Now,
 ```
-var userName = "************ ENTER USERNAME HERE ************"; // Replace with user name
-var boardName = "*********** ENTER BOARD NAME HERE *************"; // Replace with board name
+var userName = <username>
+var boardName = <board-name>
 ```
 Just replace these two variables with the username and board name!
 
