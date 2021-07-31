@@ -6,8 +6,8 @@ const Path = require('path');
 let data = [];
 var count;
 var baseUrl = "https://www.pinterest.com/";
-var userName = "************ ENTER USERNAME HERE ************"; // Replace with user name
-var boardName = "*********** ENTER BOARD NAME HERE *************"; // Replace with board name
+var userName = "<Username>"; // Replace with user name
+var boardName = "<BoardName>"; // Replace with board name
 const url = baseUrl +"/"+userName+"/"+boardName;
 
 function delay(time) {
