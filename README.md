@@ -1,7 +1,7 @@
 # Pintrest Board Scraper💻!
 This is a simple JavaScript Program to scrape images from a board on Pintrest using puppeteer!
 
-## How to use?
+## Setup
 
 Install all the dependencies by using
  
