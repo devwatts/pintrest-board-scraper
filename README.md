@@ -15,9 +15,9 @@ var boardName = <board-name>
 ```
 Just replace these two variables with the username and board name!
 
-Now simply run the code!
+Run the code!
 ```
-node.js
+node app.js
 ```
 
 
